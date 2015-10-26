@@ -1,10 +1,35 @@
 
 body {
-	text-align: center;
-	background-image: url(../images/IMG_1372.JPG);
-	background-size: cover;
-	color: #000;
-	font-family: Helvetica
+  background-color: black;
+  color:white;
 }
-  p { font-size: 22px
+header {
+    background-color:grey;
+    color:white;
+    text-align:center;
+    padding:5px;	 
+}
+h1 {font-weight: normal;
+    text-decoration: underline;
+}
+nav {
+    line-height:30px;
+    background-color:#2E8B57;
+    text-decoration: underline;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
 }
