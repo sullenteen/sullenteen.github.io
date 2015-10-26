@@ -1,11 +1,18 @@
 
 body {
   background-color: black;
+  font-family: arial, sans-serif;
+  font-size: 18px;
+  line-height; 1.5em;
   color:white;
+  margin 2em;
 }
 header {
     background-color:grey;
+    font-size: 18px;
+    font-family: georgia, serif;
     color:white;
+    text-transform; uppercase;
     text-align:center;
     padding:5px;	 
 }
@@ -13,7 +20,8 @@ h1 {font-weight: normal;
     text-decoration: underline;
 }
 nav {
-    line-height:30px;
+    font-family: serif;
+    line-height:2.5em;
     background-color:#2E8B57;
     text-decoration: underline;
     height:300px;
