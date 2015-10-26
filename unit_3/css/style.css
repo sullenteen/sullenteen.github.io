@@ -3,17 +3,16 @@ body {
   background-color: black;
   font-family: arial, sans-serif;
   font-size: 18px;
-  line-height; 1.5em;
+  line-height: 1.5em;
   color:white;
-  margin 2em;
 }
 header {
-    background-color:grey;
+    background-color: grey;
     font-size: 18px;
     font-family: georgia, serif;
     color:white;
-    text-transform; uppercase;
-    text-align:center;
+    text-transform: uppercase;
+    text-align: center;
     padding:5px;	 
 }
 h1 {font-weight: normal;
@@ -21,18 +20,22 @@ h1 {font-weight: normal;
 }
 nav {
     font-family: serif;
-    line-height:2.5em;
-    background-color:#2E8B57;
+    line-height: 2.5em;
+    background-color: #2E8B57;
     text-decoration: underline;
-    height:300px;
-    width:100px;
+    height: 300px;
+    width: 100px;
     float:left;
     padding:5px;	      
 }
-section {
+div {
     width:350px;
-    float:left;
+    float: left;
     padding:10px;	 	 
+}
+img {
+    float:left;
+    width: 700px;
 }
 footer {
     background-color:black;
